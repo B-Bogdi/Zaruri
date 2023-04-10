@@ -11,6 +11,7 @@ body {
 h1 {
   color: white;
   padding-top: 100;
+  margin-top: 10px;
 }
 #history {
   font-size: 20px;
