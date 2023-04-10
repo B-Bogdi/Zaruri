@@ -33,5 +33,5 @@ function play() {
     }
     let score = zar1 + zar2
     valuebox.innerHTML = score
-    list.innerHTML += "<hr><li>" + score + "</li>"
+    list.innerHTML += "<hr width=100%><li>" + score + "</li>"
 }
